@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Book Shelf</string>
+    <string name="book_viewed_on">Consulté %s</string>
+    <string name="book_added_on">Ajouté %s</string>
+    <string name="book_status_completed">Terminé %s</string>
+    <string name="book_status_later">Plus tard(%s)</string>
+    <string name="book_status_later2">Livres marqués \'Plus tard\'</string>
+    <string name="book_status_completed2">Livres marqués \"Terminés\"</string>
+    <string name="book_status_any">Tous les livres</string>
+    <string name="book_status_started">Livrres ouverts</string>
+    <string name="book_status_none">Livres non lus</string>
+    <string name="mark">Afficher...</string>
+    <string name="un_mark">Décocher</string>
+    <string name="mark_later">Cochez \'Pour plus tard\'</string>
+    <string name="mark_completed">Marquer \'Terminé\'</string>
+    <string name="add">Ajouter un livre</string>
+    <string name="add_dir">Ajouter depuis dossier</string>
+    <string name="contents">Contenu</string>
+    <string name="zoom">zoom</string>
+    <string name="already_added">Fichier \"%s\" déjà ajouté</string>
+    <string name="select_thisfolder">Sélectionnez ce dossier</string>
+    <string name="cancel">Annuler</string>
+    <string name="find_folder">Rechercher le dossier</string>
+    <string name="find_book">Rechercher le livre</string>
+    <string name="open_book">livre ouvert</string>
+    <string name="close_book">fermer le livre</string>
+    <string name="remove_book">Supprimer le livre</string>
+    <string name="coulndt_add_book">Impossible d\'ajouter \"%s\"</string>
+    <string name="about">à propos</string>
+    <string name="about_app">
+
+         <![CDATA[
+
+        Book organizer developed by BERRADI Ikram and ITTAQI Omayma - 2022
+        ]]>
+    </string>
+    <string name="sort">Trier</string>
+    <string name="sort_by_default">Tri par défaut</string>
+    <string name="sort_by_added_date">Trier par l\'ajout</string>
+    <string name="sort_by_title">Trier par titre</string>
+    <string name="sort_by_author">Trier par auteur</string>
+    <string name="books_added">%d livres ajoutés</string>
+    <string name="bright">brillant</string>
+    <string name="dim">dim</string>
+    <string name="bright_medium">moyen</string>
+    <string name="book_default">livre par défaut</string>
+    <string name="no_toc_found">Aucune table des matières trouvée</string>
+    <string name="added_numbooks">Ajout %d</string>
+    <string name="loading">loading</string>
+    <string name="find_books_online">les liivre e ligne</string>
+    <string name="source_name">nom du source</string>
+    <string name="web_url">url</string>
+    <string name="web_add">ajoter</string>
+    <string name="getbooks_desc">Les liens ci-dessous s\'ouvriront dans votre navigateur Web. Les livres téléchargés seront placés dans l\'emplacement de téléchargement par défaut du navigateur Web.</string>
+    <string name="new_websrc">Nouveau</string>
+    <string name="search_res_title">Rechercher \'%1$s\' (%2$d)</string>
+    <string name="search_for">Rechercher pour</string>
+    <string name="hint_search_text">Rechercher...</string>
+    <string name="title">Titre</string>
+    <string name="author">auteur</string>
+    <string name="both">les deux</string>
+    <string name="search_your_books">Rechercher vos livres</string>
+    <string name="start_options">Options de démarrage</string>
+    <string name="last_read">Dernière lecture</string>
+    <string name="shortcut_latest">continuer la lecture</string>
+    <string name="shortcut_latest_title">Lire %s</string>
+    <string name="book_bug">Quelque chose s\'est mal passé. Veuillez signaler ce livre comme un bogue.</string>
+    <string name="auto_bright">Auto</string>
+    <string name="enable_screen_paging">Activer la pagination de l\'écran</string>
+    <string name="enable_scroll">Activer le défilement par glissement</string>
+    <string name="options">Options</string>
+</resources>
